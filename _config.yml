@@ -1,0 +1,51 @@
+title: Oinam Art
+description: Oinam Digital Assets - Art.
+
+remote_theme: oinam/oinam-jekyll
+
+footer:
+  credit: false
+  custom: true
+
+footer_custom: 'All Rights Reserved. Copyright <a href="https://oinam.com">Oinam Art</a> 2021.'
+
+layout:
+  theme: default
+
+styles:
+  font_family: sans
+
+markdown: kramdown
+permalink: pretty
+permalink: /:year/:title/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - .jekyll-cache/
+  - .sass-cache/
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - gemfiles/
+  - netlify.toml
+  - README.*
+  - vendor/
