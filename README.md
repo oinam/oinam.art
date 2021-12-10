@@ -1,6 +1,6 @@
 # [Oinam Art](https://oinam.art)
 
-
+> Artistic redention of fun, family, and friends.
 
 ## NFT Images
 
@@ -8,5 +8,5 @@
 - Converted to webp for web consumption.
 	+ Single File\
 		`cwebp -q 60 file.jpg -o file.webp`
-	+ Multiple files in recursive folders
+	+ Multiple files in recursive folders\
 		`for file in */*; do cwebp -q 60 "$file" -o "${file%.*}.webp"; done`
