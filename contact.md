@@ -4,8 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+- [Discord](https://discord.gg/GfPYCeep)
 - [Twitter](https://twitter.com/oinam)
 - [Instagram](https://www.instagram.com/oinam/)
-- [Discord](https://discord.gg/GfPYCeep)
 
-or go oldschool, keep up the tradition, email us at [hi@oinam.art](mailto:hi@oinam.art) and we will try to get back to you as soon as humanly possible.
+or go old-school, keep up the tradition, and email us at [hi@oinam.art](mailto:hi@oinam.art) and we will try to get back to you as soon as humanly possible.
