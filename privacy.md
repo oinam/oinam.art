@@ -2,7 +2,7 @@
 layout: page
 title: Privacy
 permalink: /privacy/
-update: Jan 1, 2022
+update: Dec 11, 2021
 ---
 
 Your privacy is important to us. It is our policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, `oinam.art`, and other sites we own and operate.
