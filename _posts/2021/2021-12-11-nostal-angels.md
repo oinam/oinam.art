@@ -1,6 +1,6 @@
 # Nostal Angels
 
-<a href="https://opensea.io/collection/nostalangels" title="Nostal Angels"><img class="small right" src="/static/nft/nostal-angels/nostal-angels-logo.jpg" alt="Nostal Angels"></a>
+<a href="https://opensea.io/collection/nostalangels" title="Nostal Angels"><img class="small right" src="/static/nft/nostal-angels/nostal-angels-logo.webp" alt="Nostal Angels"></a>
 
 A series of events, characters, objects, and moods from the nostalgic mind of a pre-teen girl. She remembers her imagination and spins a story that is a blend of Angels, lots of them, and unrealistic but happy day-dreams.
 
