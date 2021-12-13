@@ -21,4 +21,5 @@ The characters, objects, and artifacts are avaiable for ownership. Click each of
 	<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/2443293702777852481794981172318749217968644110931189357707000730256859463681/"><img alt="Nostal Angels " src="/static/nft/nostal-angels/NostalAngels-IceCream.webp"></a>
 	<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/2443293702777852481794981172318749217968644110931189357707000732455882719233/"><img alt="Nostal Angels " src="/static/nft/nostal-angels/NostalAngels-Shopping.webp"></a>
 	<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/2443293702777852481794981172318749217968644110931189357707000729157347835905/"><img alt="Nostal Angels " src="/static/nft/nostal-angels/NostalAngels-BeachWear.webp"></a>
+	<a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/2443293702777852481794981172318749217968644110931189357707000733555394347009/"><img alt="Nostal Angels " src="/static/nft/nostal-angels/NostalAngels-Pet-Penguin.webp"></a>
 </div>
