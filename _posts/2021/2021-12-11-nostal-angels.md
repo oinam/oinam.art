@@ -6,7 +6,7 @@ A series of events, characters, objects, and moods from the nostalgic mind of a 
 
 It all started with a blank canvas with a seasonable divide that created the magical jar from where everything was created.
 
-A witch was born out of the jar but felt lonely living in a secluded home in a far far away place. It was a warm cozy home with an attached barn for the animals. One day, she decided to few more pretty girls to be her friends.
+A witch was born out of the jar but felt lonely living in a secluded home in a far far away place. It was a warm cozy home with an attached barn for the animals. One day, she decided to add a few more pretty girls to be her friends.
 
 All the girls have their own characteristics and trait that were unique and different from each other.
 
