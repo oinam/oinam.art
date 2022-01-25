@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-- [Discord](https://discord.gg/GfPYCeep)
+- [Discord](https://discord.gg/SkNnms8Uha)
 - [Twitter](https://twitter.com/oinam)
 - [Instagram](https://www.instagram.com/oinam/)
 
